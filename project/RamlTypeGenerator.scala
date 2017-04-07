@@ -5,7 +5,6 @@ import definitions._
 import org.raml.v2.api.RamlModelResult
 import org.raml.v2.api.model.v10.api.Library
 import org.raml.v2.api.model.v10.datamodel._
-import treehugger.forest
 import treehuggerDSL._
 
 import scala.annotation.tailrec
